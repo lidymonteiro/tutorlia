@@ -21,7 +21,7 @@ The project is a conversational AI agent capable of:
 
 - Concept Explanation: It must be able to answer questions about programming logic and theory.
 
-- Support for Multiple Languages: The agent should be capable of processing and understanding code in Python, JavaScript, Java, and other popular languages.
+- Support for Multiple Languages: The agent will initially start with support for Python and will later expand to include other popular languages such as JavaScript and Java.
 
 - Conversational Interface: Communication with the student must be fluid and intuitive.
 
